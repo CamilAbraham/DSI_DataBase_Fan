@@ -18,8 +18,8 @@ To probe that the program as well as the electronic schematics is ok, a proteus 
 ![proteus simulation](https://github.com/CamilAbraham/DSI_DataBase_Fan/blob/main/ProteusSimulation.PNG?raw=true)
 
 As we can see, there are:
-*Four buttons, which can be used to change the turn on and turn off temperature values. 
-*An LCD display that shows the current on/off temp values, as well as the current humidity and temperature in the room.
-*The microcontroller that controlls everything, and a crystal which is needed by every microcontroller to work.
-*An DHT22 sensor, which is the one that measures the room temp.
-*And a led, which simulates the fan.  When the led is on it represents the moments when the fans are activated, and when its off the fans are turned off.
+* Four buttons, which can be used to change the turn on and turn off temperature values. 
+* An LCD display that shows the current on/off temp values, as well as the current humidity and temperature in the room.
+* The microcontroller that controlls everything, and a crystal which is needed by every microcontroller to work.
+* An DHT22 sensor, which is the one that measures the room temp.
+* And a led, which simulates the fan.  When the led is on it represents the moments when the fans are activated, and when its off the fans are turned off.
